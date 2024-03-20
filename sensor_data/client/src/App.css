@@ -160,37 +160,31 @@ a svg{
 }
 
 .logo {
-    color: rgb(101, 196, 234);
     transition: 0.3s;
     transform: scale(1.3);
 }
 
 .logo:hover {
-    color: rgb(154, 206, 76);
     transition: 0.3s;
     transform: scale(1.5);
 }
 
 .logo span {
-    color: rgb(154, 206, 76);
     transition: 0.3s;
 }
 
 .logo span:hover {
-    color: rgb(101, 196, 234);
     transition: 0.3s;
     transform: scale(1.2);
 }
 
 .nav-icon {
-    color: rgb(154, 206, 76);
     transition: 0.3s;
     padding: 0.5rem 1rem;
     font-weight: bold;
 }
 
 .nav-icon:hover {
-    color: rgb(101, 196, 234);
     transform: scale(1.2);
     transition: 0.3s;
 }
@@ -207,12 +201,10 @@ a svg{
 }
 
 .heading2{
-    color: rgb(154, 206, 76);
     transition: 0.3s;
 }
 
 .heading2:hover {
-    color: rgb(101, 196, 234);
     transition: 0.3s;
 }
 

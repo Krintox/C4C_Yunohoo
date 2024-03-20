@@ -1,0 +1,24 @@
+*{
+  font-family: Poppins;
+}
+
+.main-ul{
+  padding: 3rem;
+  padding-left: 1.5rem;
+}
+
+.main-ul li{
+  padding: 1rem 1rem;
+  margin: 0.5rem 0rem;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  border-radius: 1rem;
+}
+
+.main-heading{
+  font-size: 3rem;
+}
+
+.owner-text{
+  color: green !important;
+  font-weight: bold;
+}
