@@ -181,3 +181,12 @@ The Smart Grid Management System (SGMS) operates in a competitive landscape with
 ### Conclusion:
 
 By leveraging a robust business model focused on revenue diversification, customer segmentation, and value proposition differentiation, the Smart Grid Management System aims to create social impact while generating sustainable revenue streams. Collaboration with key partners and stakeholders, combined with innovative technology solutions, enables the system to address pressing challenges in energy management and contribute to a more sustainable and resilient energy future.
+
+### Contributors:
+- [Shashank Suggala](https://github.com/Krintox)
+- [Vanya Nandwani](https://github.com/vannyyyaaa)
+- [Ansh Verma](https://github.com/anshverma1612)
+
+---
+
+<h4 align="center">Made with ❤️ by Team Yunohoo </h4>
